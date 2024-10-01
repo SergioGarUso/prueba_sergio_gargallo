@@ -2,11 +2,9 @@
 
 ## Subtítulo
 
-Este es un párrafo de ejemplo. Podemos destacar palabras en **negrita**, *cursiva* o `código`.
+Este es un párrafo de ejemplo. Podemos destacar palabras en **negrita**, *cursiva* o `console.log("¡Hola, mundo!");`.
 
-```javascript
-// Esto es un bloque de código JavaScript 
-console.log("¡Hola, mundo!");
+
 
 1. primer item
 2. segundo item
