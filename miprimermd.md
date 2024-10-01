@@ -19,7 +19,7 @@ console.log("¡Hola, mundo!");
 [Google](https://www.google.com)
 
 [Leeme](README.md)
-![alt cobacara](mediobocatarecortado.png)
+![mediocobacata](mediobocatarecortado.png)
 
 | Syntax | Description |
 | ----------- | ----------- |
