@@ -20,3 +20,8 @@ console.log("¡Hola, mundo!");
 
 [Leeme](README.md)
 ![alt cobacara](mediobocatarecortado.png)
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
